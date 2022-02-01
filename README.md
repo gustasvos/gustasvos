@@ -3,7 +3,7 @@
 ### About me
 
 - My name is Gustavo Ribeiro da Rosa, 21yo and I'm from Brazil.
-- I'm currently working at [nave.rs](nave.rs) as a Ruby on Rails intern.
+- I'm currently working at [nave.rs](https://nave.rs) as a Ruby on Rails intern.
 
 ### Technologies I study
 
