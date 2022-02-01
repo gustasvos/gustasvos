@@ -3,7 +3,7 @@
 ### About me
 
 - My name is Gustavo Ribeiro da Rosa, 21yo and I'm from Brazil.
-- I'm currently working at [nave.rs](https://nave.rs) as a Ruby on Rails intern.
+- I'm currently working at [nave.rs](https://nave.rs) as Ruby on Rails intern.
 
 ### Technologies I study
 
@@ -14,6 +14,10 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+### Contact
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "https://www.linkedin.com/in/gustavo-rosa-46a251180/")](https://www.linkedin.com/in/gustavo-rosa-46a251180/)
 
 
 <!--
