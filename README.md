@@ -1,10 +1,5 @@
 ## Hi there, welcome to my Github profile! 👋
 
-### About me
-
-- My name is Gustavo Ribeiro da Rosa, 21yo and I'm from Brazil.
-- I'm currently working at [nave.rs](https://nave.rs) as Ruby on Rails intern.
-
 ### Technologies I study
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
