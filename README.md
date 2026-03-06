@@ -4,7 +4,7 @@ Currently pursuing a degree in Multiplatform Software Development, primarily stu
 
 ### Languages I Study
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustasvos&hide=Jupyter%20Notebook&theme=github_dark&layout=compact)
+![Top Langs](https://github-readme-stats-mauve-three-30.vercel.app/api/top-langs/?username=gustasvos&count_private=true&hide=Jupyter%20Notebook&theme=github_dark&layout=compact)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
